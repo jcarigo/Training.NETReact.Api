@@ -1,0 +1,12 @@
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\bin\Release\net5.0\Training.NETReact.Domain.deps.json
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\bin\Release\net5.0\Training.NETReact.Domain.dll
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\bin\Release\net5.0\ref\Training.NETReact.Domain.dll
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\bin\Release\net5.0\Training.NETReact.Domain.pdb
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\obj\Release\net5.0\Training.NETReact.Domain.csprojAssemblyReference.cache
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\obj\Release\net5.0\Training.NETReact.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\obj\Release\net5.0\Training.NETReact.Domain.AssemblyInfoInputs.cache
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\obj\Release\net5.0\Training.NETReact.Domain.AssemblyInfo.cs
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\obj\Release\net5.0\Training.NETReact.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\obj\Release\net5.0\Training.NETReact.Domain.dll
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\obj\Release\net5.0\ref\Training.NETReact.Domain.dll
+C:\Users\jose.leo.carigo\Desktop\ProjectRepo\jose.leo.carigo\src\Training.NETReact.Api\Training.NETReact.Model\obj\Release\net5.0\Training.NETReact.Domain.pdb

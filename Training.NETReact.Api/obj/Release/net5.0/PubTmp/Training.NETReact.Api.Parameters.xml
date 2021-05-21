@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="dotnet-crud-api" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\jose\.leo\.carigo\\Desktop\\ProjectRepo\\jose\.leo\.carigo\\src\\Training\.NETReact\.Api\\Training\.NETReact\.Api\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
